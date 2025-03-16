@@ -91,11 +91,11 @@ python app.py
 This project demonstrates the power of **Deep Learning** and **Computer Vision** in recognizing handwritten digits. It is a beginner-friendly application that showcases **CNN-based image classification** and **interactive GUI development**.  
 
 ---
-![Image](https://github.com/user-attachments/assets/e53a0b72-00b5-44e5-98ec-56a285c8ff7e)
+
 ![Image](https://github.com/user-attachments/assets/b91b7f1a-e741-46f7-a0ea-0ec49e9ee2b5)
 ![Image](https://github.com/user-attachments/assets/2edfdcc0-4a64-44aa-9aab-a016632a6b69)
 ![Image](https://github.com/user-attachments/assets/47554f11-34bc-4d48-9175-9b60347f8dbb)
 ![Image](https://github.com/user-attachments/assets/a8578a8f-a58a-4e03-8c93-36736223f176)
 ![Image](https://github.com/user-attachments/assets/17ec9beb-0b2f-411d-9061-526a89d1cb2f)
 ![Image](https://github.com/user-attachments/assets/6e03184c-e6d3-4405-8a0a-884b887aa895)
-![Image](https://github.com/user-attachments/assets/03243772-5904-4546-879d-6d2f4c8ff4ca)
+
